@@ -4,6 +4,7 @@
 
 header {
   position: relative;
+  height: 50px;
 }
 
 nav {
@@ -91,6 +92,7 @@ nav {
 }
 
 .promo {
+  min-height: 800px;
   padding: 150px 0 135px 0;
   background: url("../img/bg/bg_1.jpg") center center/cover no-repeat;
 }
